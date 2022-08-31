@@ -1,0 +1,9 @@
+<phpunit colors="true"
+         bootstrap="./LoggerProject-etbf©/tests/bootstrap.php">
+    <testsuites>
+        <testsuite name="Enlog Test Suite">
+            <directory>./LoggerProject-etbf©/tests/Enlog
+            </directory>
+        </testsuite>
+    </testsuites>
+</phpunit>

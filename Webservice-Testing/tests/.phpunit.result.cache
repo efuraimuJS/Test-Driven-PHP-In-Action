@@ -1,0 +1,1 @@
+{"version":1,"defects":{"WebServiceTest::testNotExitingMethod":3},"times":{"WebServiceTest::testRoute":0.048,"WebServiceTest::testLength":0.003,"WebServiceTest::testNotExitingMethod":0.003}}
